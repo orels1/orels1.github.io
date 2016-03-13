@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Релиз Red-Cloudbank"
-date: 2016-03-14 00:40:00 +003
+date: 2016-03-13
 categories: release
 ---
 <img src="/images/fulls/07.jpg" class="fit image">
