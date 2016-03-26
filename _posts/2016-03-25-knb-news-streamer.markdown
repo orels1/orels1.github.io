@@ -22,4 +22,5 @@ categories: release
 На этом все, как обычно все опенсорс, потому что мне лень платить за приватные репозитории.
 До следующего!
 
-[Репа](https://github.com/orels1/knb-news-streamer)
+[Репа](https://github.com/orels1/knb-news-streamer)  
+[Информация](https://orels1.github.io/knb-news-streamer/)
