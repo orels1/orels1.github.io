@@ -5,7 +5,7 @@ date: 2016-03-29T00:00:00
 categories: gallery
 ---
 <img src="/images/fulls/09.jpg" class="fit image">
-<div class="fotorama">
+<div class="fotorama" data-allowfullscreen="native">
   <img src="/images/fulls/games/01-adr1ft/ADR1FT_01.jpg">  
   <img src="/images/fulls/games/01-adr1ft/ADR1FT_02.jpg">  
   <img src="/images/fulls/games/01-adr1ft/ADR1FT_03.jpg">  
